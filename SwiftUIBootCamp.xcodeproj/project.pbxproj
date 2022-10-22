@@ -17,6 +17,7 @@
 		4B752405290480AD007184D6 /* LocationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B752404290480AD007184D6 /* LocationView.swift */; };
 		4B7524072904822B007184D6 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7524062904822B007184D6 /* LocationsViewModel.swift */; };
 		4B7524092904885D007184D6 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7524082904885D007184D6 /* LocationsListView.swift */; };
+		4B75240B29048DD4007184D6 /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B75240A29048DD4007184D6 /* LocationPreviewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		4B752404290480AD007184D6 /* LocationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationView.swift; sourceTree = "<group>"; };
 		4B7524062904822B007184D6 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
 		4B7524082904885D007184D6 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
+		4B75240A29048DD4007184D6 /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 			children = (
 				4B752404290480AD007184D6 /* LocationView.swift */,
 				4B7524082904885D007184D6 /* LocationsListView.swift */,
+				4B75240A29048DD4007184D6 /* LocationPreviewView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				4B752405290480AD007184D6 /* LocationView.swift in Sources */,
 				4B6B25B9288DA1FB00C05240 /* DownloadImageAsync.swift in Sources */,
 				4B7524072904822B007184D6 /* LocationsViewModel.swift in Sources */,
+				4B75240B29048DD4007184D6 /* LocationPreviewView.swift in Sources */,
 				4B75240229047F8C007184D6 /* Location.swift in Sources */,
 				4B7524092904885D007184D6 /* LocationsListView.swift in Sources */,
 				4B6B25AD288DA10300C05240 /* ContentView.swift in Sources */,
