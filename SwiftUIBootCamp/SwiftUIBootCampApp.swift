@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct SwiftUIBootCampApp: App {
+    
+    @State private var vm = LocationsViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            LocationView()
+                .environmentObject(vm)
+            
         }
     }
 }
