@@ -52,11 +52,11 @@ extension LocationPreviewView {
                     .resizable()
                     .scaledToFill()
                     .frame(width: 100, height: 100)
-                    .background(Color.white)
                     .cornerRadius(10)
             }
         }
         .padding(6)
+        .background(Color.white)
         .cornerRadius(10)
     }
     
